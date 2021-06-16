@@ -2,7 +2,7 @@
 other = "Hi ^^"
 
 [i-am]
-other = ""
+other = " "
 
 [generator]
 other = "Made with <a href='https://gohugo.io'>Hugo</a> using the <a href='https://github.com/EmielH/hallo-hugo/'>Hallo</a> theme."
