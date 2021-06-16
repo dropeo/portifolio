@@ -13,4 +13,8 @@ defaultContentLanguage = "pt"
         icon = "github"
         title = "Github"
         url = "https://github.com/dropeo"
-    
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "jpoliveira@id.uff.br"
