@@ -22,11 +22,11 @@ jobs:
           extended: true
 
       - name: Theme
-        run: hugo
+        run: rm -rf css && hugo
 
       - name: Build
         run: hugo --minify
-
+      
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/master'
