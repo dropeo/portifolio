@@ -13,7 +13,7 @@ defaultContentLanguage = "pt"
         icon = "github"
         title = "Github"
         url = "https://github.com/dropeo"
-    [params.colors]
+    [[params.colors]]
         background = "#3333ff"
         foreground = "#edf7ff"
         hover = "#ffba82"
