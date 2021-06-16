@@ -11,4 +11,4 @@ theme = "hallo"
     [[params.links]]
         icon = "github"
         title = "Github"
-        url = "https://github.com/"
+        url = "https://github.com/dropeo"
