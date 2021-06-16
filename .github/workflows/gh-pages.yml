@@ -22,7 +22,7 @@ jobs:
           extended: true 
 
       - name: Build
-        run: hugo --minify 
+        run: hugo --minify && cp layouts/partials/style.css ./css
       
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
