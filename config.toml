@@ -1,0 +1,14 @@
+baseURL = "https://dropeo.github.io/"
+footnoteReturnLinkContents = "↩"
+title = "Pedro Oliveira"
+theme = "hallo"
+
+[permalinks]
+    posts = "/:year/:month/:title/"
+[Author]
+    name = "Pedro Oliveira"
+[params]
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/"
