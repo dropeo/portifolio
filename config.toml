@@ -2,6 +2,7 @@ baseURL = "https://dropeo.github.io/"
 footnoteReturnLinkContents = "↩"
 title = "Pedro Oliveira"
 theme = "hallo"
+defaultContentLanguage = "pt"
 
 [permalinks]
     posts = "/:year/:month/:title/"
