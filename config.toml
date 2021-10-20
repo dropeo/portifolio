@@ -7,7 +7,7 @@ defaultContentLanguage = "pt"
 [permalinks]
     posts = "/:year/:month/:title/"
 [Author]
-    name = "Pedro Oliveira"
+    name = "João Pedro Oliveira"
 [params]
     [[params.links]]
         icon = "github"
